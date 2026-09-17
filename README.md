@@ -2,6 +2,9 @@
 
 A free, local-first Streamlit demo for searching NCR, CAPA, scrap and manufacturing quality history, finding similar cases, and grounding root-cause analysis in evidence.
 
+👉 [Open the Live Streamlit Application](https://ncr-capa-scrap-root-cause-rag-njjotdgvsfylcd5cosiigh.streamlit.app/)
+
+A free, local-first Streamlit demo for searching NCR, CAPA, scrap and manufacturing quality history, finding similar cases, and grounding root-cause analysis in evidence.
 ## What it does
 
 - Upload CSV, XLSX/XLSM, PDF, DOCX, TXT, or Markdown quality records.
