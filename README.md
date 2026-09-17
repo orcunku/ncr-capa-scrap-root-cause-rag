@@ -5,15 +5,16 @@ A free, local-first Streamlit demo for searching NCR, CAPA, scrap and manufactur
 👉 [Open the Live Streamlit Application](https://ncr-capa-scrap-root-cause-rag-njjotdgvsfylcd5cosiigh.streamlit.app/)
 
 A free, local-first Streamlit demo for searching NCR, CAPA, scrap and manufacturing quality history, finding similar cases, and grounding root-cause analysis in evidence.
-## What it does
 
-- Upload CSV, XLSX/XLSM, PDF, DOCX, TXT, or Markdown quality records.
-- Build a zero-cost local retrieval index using scikit-learn TF-IDF + cosine similarity.
-- Ask questions across NCR/CAPA/scrap history.
-- Find similar historical defects and corrective actions.
-- Show the exact evidence records used.
-- Create a basic defect Pareto from structured records.
-- Optionally use a local Ollama model for generative synthesis. No paid API is required.
+### 🎯 What It Does
+
+- Searches historical NCR, CAPA and scrap records
+- Identifies similar quality incidents
+- Retrieves evidence for root-cause investigations
+- Finds previous corrective and preventive actions
+- Provides defect Pareto analysis
+- Supports CSV, Excel, PDF, DOCX and text records
+- Runs without a paid AI API
 
 > This is a decision-support demo, not an autonomous CAPA approval system. Validate source records and keep human quality approval in the loop.
 
